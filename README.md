@@ -1,2 +1,2 @@
 # examen_integrador1
-john martinez
+john jairo martinez
